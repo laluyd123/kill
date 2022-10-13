@@ -90,7 +90,7 @@ span.psw {
 
 
 <label>Password*</label>
-    <input type="text" placeholder="" name="password"maxlength="35" required>
+    <input type="password" placeholder="" name="password"maxlength="35" required>
 
 <label>Mobile Number*</label>
     <input type="text" placeholder="" name="number"maxlength="10" pattern="[0-9]{10}" required>
