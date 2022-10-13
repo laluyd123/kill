@@ -90,7 +90,9 @@ span.psw {
 
     <button type="submit">CONTINUE TO LOGIN</button> 
 
-
+<p style="
+    color: #008CBA;
+">Dear Customer, OTP based login is introduced for added security</p>
 
   </div>
 
